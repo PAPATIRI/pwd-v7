@@ -187,25 +187,58 @@
     <footer>
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
+                <div class="col-md-4 col-lg-4">
                     <!-- footer about -->
                     <div class="footer-about">
-                        <div class="footer-about__img">
-                            <img src="../assets/logo-white.png" class="img-fluid" alt="">
-                        </div>
+                        <p class="footer-title"></p>
                         <p>HOTLINE COVID-19 KEMENKES RI</p>
                         <p>Tlp. 199 ext 9</p>
                         <p>WEBSITE MITIGASI COVID-19 UMY</p>
-                        <p>Covid-19.umy.ac.id</p>
-                        <!-- <a href="">Covid-19.umy.ac.id</a> -->
-
+                        <a class="text-white" href="">Covid-19.umy.ac.id</a>
                     </div>
+                </div>
+                <div class="col-md-4 col-md-4">
+                    <p class="footer-title">Kontak</p>
+                    <table>
+                        <tr>
+                            <td class="footer-about">Telp</td>
+                            <td class="footer-about">: +62 274 387656 (hunting)</td>
+                        </tr>
+                        <tr>
+                            <td class="footer-about">Faks</td>
+                            <td class="footer-about">: +62 274 387646</td>
+                        </tr>
+                        <tr>
+                            <td class="footer-about">Admisi</td>
+                            <td class="footer-about">: +62 274 387649</td>
+                        </tr>
+                        <tr>
+                            <td class="footer-about"></td>
+                            <td class="footer-about"> +62 274 387656 Ext. 199 & 200 (hunting)</td>
+                        </tr>
+                        <tr>
+                            <td class="footer-about">Humas</td>
+                            <td class="footer-about">: +62 274 387656 Ext. 115</td>
+                        </tr>
+                        <tr>
+                            <td class="footer-about">Surel</td>
+                            <td class="footer-about">: bhp@umy.ac.id</td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="col-md-4 col-md-4">
+                    <p class="footer-title">alamat</p>
+                    <p class="footer-about">Kampus Terpadu UMY</p>
+                    <p class="footer-about">Jl Brawijaya</p>
+                    <p class="footer-about">Kasihan, Bantul</p>
+                    <p class="footer-about">Yogyakarta 55183</p>
+                    <p class="footer-about">Lihat di Peta Google</p>
                 </div>
             </div>
         </div>
     </footer>
     <!-- Copyright -->
-    <div class="footer-copyright text-center py-3">Copyright &copy;<script>
+    <div class="footer-copyright text-center py-3 text-primary">Copyright &copy;<script>
             document.write(new Date().getFullYear());
         </script> Smatecin All rights reserved
     </div>

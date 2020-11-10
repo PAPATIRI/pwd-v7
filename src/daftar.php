@@ -39,10 +39,10 @@
                         <a class="nav-link" href="berita.php">Berita</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="masuk.php">Masuk</a>
+                        <a class="nav-link" href="masuk.php">Masuk</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="daftar.php">Daftar</a>
+                        <a class="nav-link active" href="daftar.php">Daftar</a>
                     </li>
                 </ul>
             </div>
@@ -55,11 +55,15 @@
             <div class="row mx-auto my-auto justify-content-between">
                 <div class="col-md-6 col-lg-5" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="20">
                     <div class="">
-                        <img class="img-fluid" src="../assets/banner/ilustrasi-login.png">
+                        <img class="img-fluid" src="../assets/banner/ilustrasi-registrasi.png">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-5 pt-7" data-aos="fade-right">
                     <form>
+                        <div class="form-group">
+                            <label for="formGroupExampleInput">nama lengkap</label>
+                            <input type="text" class="form-control" id="formGroupExampleInput" placeholder="nama anda">
+                        </div>
                         <div class="form-group">
                             <label for="formGroupExampleInput2">email</label>
                             <input type="email" class="form-control" id="formGroupExampleInput2" placeholder="contoh@email.com">
@@ -68,8 +72,11 @@
                             <label for="formGroupExampleInput2">kata sandi</label>
                             <input type="password" class="form-control" id="formGroupExampleInput2" placeholder="kata sandi">
                         </div>
-
-                        <button type="submit" class="btn btn-info mt-4">masuk</button>
+                        <div class="form-group">
+                            <label for="formGroupExampleInput2">konfirmasi kata sandi</label>
+                            <input type="password" class="form-control" id="formGroupExampleInput2" placeholder="ulangi kata sandi">
+                        </div>
+                        <button type="submit" class="btn btn-info mt-4">daftar</button>
                     </form>
                 </div>
             </div>

@@ -9992,7 +9992,7 @@ footer {
   background: linear-gradient(183.41deg, #67c3f3 -8.57%, #5a98f2 82.96%);
   padding: 4em 0em;
 }
-footer .footer-about p {
+footer .footer-about {
   color: rgba(255, 255, 255, 0.7);
 }
 footer .footer-title {
@@ -10000,6 +10000,10 @@ footer .footer-title {
   margin-bottom: 2em;
   color: white;
   font-size: 20px;
+}
+footer .footer-content {
+  margin-bottom: 1.5em;
+  color: white;
 }
 footer ul {
   list-style: none;
