@@ -62,11 +62,11 @@
                     <form>
                         <div class="form-group">
                             <label for="formGroupExampleInput2">email</label>
-                            <input type="email" class="form-control" id="formGroupExampleInput2" placeholder="contoh@email.com">
+                            <input type="email" class="form-control text-secondary" id="formGroupExampleInput2">
                         </div>
                         <div class="form-group">
                             <label for="formGroupExampleInput2">kata sandi</label>
-                            <input type="password" class="form-control" id="formGroupExampleInput2" placeholder="kata sandi">
+                            <input type="password" class="form-control" id="formGroupExampleInput2">
                         </div>
 
                         <button type="submit" class="btn btn-info mt-4">masuk</button>

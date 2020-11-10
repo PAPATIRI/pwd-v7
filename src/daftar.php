@@ -62,19 +62,19 @@
                     <form>
                         <div class="form-group">
                             <label for="formGroupExampleInput">nama lengkap</label>
-                            <input type="text" class="form-control" id="formGroupExampleInput" placeholder="nama anda">
+                            <input type="text" class="form-control" id="formGroupExampleInput">
                         </div>
                         <div class="form-group">
                             <label for="formGroupExampleInput2">email</label>
-                            <input type="email" class="form-control" id="formGroupExampleInput2" placeholder="contoh@email.com">
+                            <input type="email" class="form-control" id="formGroupExampleInput2">
                         </div>
                         <div class="form-group">
                             <label for="formGroupExampleInput2">kata sandi</label>
-                            <input type="password" class="form-control" id="formGroupExampleInput2" placeholder="kata sandi">
+                            <input type="password" class="form-control" id="formGroupExampleInput2">
                         </div>
                         <div class="form-group">
                             <label for="formGroupExampleInput2">konfirmasi kata sandi</label>
-                            <input type="password" class="form-control" id="formGroupExampleInput2" placeholder="ulangi kata sandi">
+                            <input type="password" class="form-control" id="formGroupExampleInput2">
                         </div>
                         <button type="submit" class="btn btn-info mt-4">daftar</button>
                     </form>
