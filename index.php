@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Trafalgar Landing Page</title>
+    <title>covid test</title>
 
     <!-- CSS -->
     <link rel="stylesheet" href="css/main.css?v=2" />
@@ -328,7 +328,6 @@
                         <p>HOTLINE COVID-19 KEMENKES RI</p>
                         <p>Tlp. 199 ext 9</p>
                         <p>WEBSITE MITIGASI COVID-19 UMY</p>
-                        <a class="text-white" href="">Covid-19.umy.ac.id</a>
                     </div>
                 </div>
                 <div class="col-md-4 col-md-4">
@@ -353,10 +352,6 @@
                         <tr>
                             <td class="footer-about">Humas</td>
                             <td class="footer-about">: +62 274 387656 Ext. 115</td>
-                        </tr>
-                        <tr>
-                            <td class="footer-about">Surel</td>
-                            <td class="footer-about">: bhp@umy.ac.id</td>
                         </tr>
                     </table>
                 </div>

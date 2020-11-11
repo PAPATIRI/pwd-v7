@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Trafalgar Landing Page</title>
+    <title>covid test</title>
 
     <!-- CSS -->
     <link rel="stylesheet" href="../css/main.css?v=2" />
@@ -15,7 +15,7 @@
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-white custom-navbar">
         <div class="container">
-            <a class="navbar-brand" href="#">C <span><img src="assets/icon.png" alt="">vidTest </span></a>
+            <a class="navbar-brand" href="#">C <span><img src="../assets/icon.png" alt="">vidTest </span></a>
             <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <!-- <span class="navbar-toggler-icon"></span> -->
                 <img src="./assets/bars.svg" width="25" alt="hamburger">
@@ -193,8 +193,7 @@
                         <p class="footer-title"></p>
                         <p>HOTLINE COVID-19 KEMENKES RI</p>
                         <p>Tlp. 199 ext 9</p>
-                        <p>WEBSITE MITIGASI COVID-19 UMY</p>
-                        <a class="text-white" href="">Covid-19.umy.ac.id</a>
+                        <p>WEBSITE MITIGASI COVID-19</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-md-4">
@@ -219,10 +218,6 @@
                         <tr>
                             <td class="footer-about">Humas</td>
                             <td class="footer-about">: +62 274 387656 Ext. 115</td>
-                        </tr>
-                        <tr>
-                            <td class="footer-about">Surel</td>
-                            <td class="footer-about">: bhp@umy.ac.id</td>
                         </tr>
                     </table>
                 </div>
